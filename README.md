@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" width="130" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" width="130" style="margin-right: 30px;"/>
   <a href="https://mcoin.multicone.tech/">
   <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/webapp.png" alt="Web app" width="551"/>
   </a>

@@ -30,17 +30,22 @@
 
 
 <h2 align="center"> <samp>Things i {code} with</samp></h2>
-<h3><samp>Frontend</samp></h3>
+<h3><samp>1. Frontend</samp></h3>
 
 #### `next` • `shadcn` • `tailwindcss` • `vite` • `react` • `vue`
 
-<h3><samp>Backend</samp></h3>
+<h3><samp>2. Backend</samp></h3>
 
-#### `nodejs` `express` `koa` `nest` `django`
+#### `nodejs` • `express` • `koa` • `nest` • `django`
 
-<h3><samp>UI / UX Design</samp></h3>
+<h3><samp>3. UI / UX Design</samp></h3>
 
-#### `Figma` `Adobe Illustrator` `Adobe XD` `Framer`
+#### `Figma` • `Adobe Illustrator` • `Adobe XD` • `Framer`
+
+<h3><samp>3. DevOps</samp></h3>
+
+#### `Docker` • `Kubernates` • `Github Actions` • `CI/CD Integrations`
+
 
 
 

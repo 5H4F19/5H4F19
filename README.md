@@ -46,10 +46,10 @@
 
 #### `Figma` • `Adobe Illustrator` • `Adobe XD` • `Framer`
 
-<h3><samp>3. DevOps</samp></h3>
+<h3><samp>4. DevOps</samp></h3>
 
 #### `Docker` • `Kubernates` • `Github Actions` • `CI/CD Integrations`
 
 
 
-
+React Webpack Docker github actions Google Cloud Platform TypeScript Heroku redux GraphQL Sass Styled Components git NestJs npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs

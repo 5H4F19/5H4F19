@@ -37,7 +37,7 @@
 
 <samp>1. Frontend</samp>
 
-        `next` • `shadcn` • `tailwindcss` • `vite` • `react` • `vue`
+`next` • `shadcn` • `tailwindcss` • `vite` • `react` • `vue`
 
 <samp>2. Backend</samp>
 

@@ -31,7 +31,16 @@
 
 <h2 align="center"> <samp>Things i {code} with</samp></h2>
 <h3><samp>Frontend</samp></h3>
+
 #### `next` `shadcn` `tailwindcss` `vite` `react` `vue`
+
+<h3><samp>Backend</samp></h3>
+
+#### `nodejs` `express` `koa` `nest` `django`
+
+<h3><samp>UI / UX Design</samp></h3>
+
+#### `Figma` `Adobe Illustrator` `Adobe XD` `Framer`
 
 
 

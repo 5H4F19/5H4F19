@@ -32,7 +32,7 @@
 <h2 align="center"> <samp>Things i {code} with</samp></h2>
 <p align="center">
   
-###  `next` `shadcn` `tailwindcss` `vite` `react` `vue`
+####  `next` `shadcn` `tailwindcss` `vite` `react` `vue`
 
 </p>
 

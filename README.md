@@ -3,7 +3,7 @@
 
 <h2 align="center"> <samp>Who am I ?</samp></h2>
 <p align="center">
-  <samp>A highly skilled developer with 4 years of experience, I specialize in building scalable applications using technologies like Next.js, React, TailwindCSS, Vite, Nest.js, and Python. With a strong grasp of both frontend and backend development, I also bring expertise in UI/UX design, leveraging Figma and Adobe Illustrator to create intuitive, visually appealing interfaces. My focus is on delivering high-quality, user-centric solutions that perform seamlessly.
+  <samp>A resourceful developer with 4 years of experience, I specialize in building scalable applications using Next.js, React, TailwindCSS, Nest.js, and Python. With strong frontend and backend skills, plus expertise in UI/UX design with Figma and Adobe Illustrator, I focus on creating user-friendly, high-performance solutions.
   </samp>
   <br> <br>
 </p>

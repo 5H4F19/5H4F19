@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/kw/app/gcbuying-sell-giftcard/id1574175142">
+  <a style="margin-right:100" href="https://apps.apple.com/kw/app/gcbuying-sell-giftcard/id1574175142">
   <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" width="130" style="margin-right: 100px;"/>
   </a>
   <a href="https://mcoin.multicone.tech/">

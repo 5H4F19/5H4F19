@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" style="text-align: center; margin-bottom: 30px;" />
+  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" style="width:300px;text-align: center; margin-bottom: 30px;" />
 <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/webapp.png" alt="Web app" style="text-align: center; margin-bottom: 30px;" />
 
 </p>

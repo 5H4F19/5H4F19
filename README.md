@@ -3,7 +3,7 @@
 
 <h2 align="center"> <samp>Who am I ?</samp></h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>A highly skilled developer with 4 years of experience, I specialize in building scalable applications using technologies like Next.js, React, TailwindCSS, Vite, Nest.js, and Python. With a strong grasp of both frontend and backend development, I also bring expertise in UI/UX design, leveraging Figma and Adobe Illustrator to create intuitive, visually appealing interfaces. My focus is on delivering high-quality, user-centric solutions that perform seamlessly.
   </samp>
   <br> <br>
 </p>

@@ -9,8 +9,8 @@
 </p>
 
 <p align="center>
-  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" width="300" style="text-align: center; margin-bottom: 30px;" />
-<img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/webapp.png" alt="Web app" width="800" style="text-align: center; margin-bottom: 30px;" />
+  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" style="text-align: center;" />
+<img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/webapp.png" alt="Web app" style="text-align: center;" />
 
 </p>
 <h3><samp>Things I `code` with</samp></h3>

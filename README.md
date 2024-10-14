@@ -30,8 +30,7 @@
 
 
 <h2 align="center"> <samp>Things i {code} with</samp></h2>
-<h4><samp>Frontend</samp></h4>
-
+<h3><samp>Frontend</samp></h3>
 #### `next` `shadcn` `tailwindcss` `vite` `react` `vue`
 
 

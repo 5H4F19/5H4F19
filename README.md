@@ -34,16 +34,20 @@
  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/spacer.png" alt="React Native" width="30" style=""/>
  
 <h2 align="center"> <samp>Things i {code} with</samp></h2>
+
 <samp>1. Frontend</samp>
 
 `next` • `shadcn` • `tailwindcss` • `vite` • `react` • `vue`
 
 <samp>2. Backend</samp>
+
 `nodejs` • `express` • `koa` • `nest` • `django`
 
 <samp>3. UI / UX Design</samp>
+
 `Figma` • `Adobe Illustrator` • `Adobe XD` • `Framer`
 
 <samp>4. DevOps</samp>
+
 `Docker` • `Kubernates` • `Github Actions` • `CI/CD Integrations`
 

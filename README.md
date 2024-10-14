@@ -17,7 +17,7 @@
 <p>
   <samp>MCoin is a platform for exploring initial coin offerings (ICOs), offering an intuitive interface and responsive design to keep users informed about cryptocurrency developments.</samp>
 </p>
-
+ <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/spacer.png" alt="React Native" width="30" style=""/>
 <p align="center">
   <a style="margin-right:100" href="https://apps.apple.com/kw/app/gcbuying-sell-giftcard/id1574175142">
   <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" width="130" style=""/>

@@ -39,14 +39,11 @@
 `next` • `shadcn` • `tailwindcss` • `vite` • `react` • `vue`
 
 <samp>2. Backend</samp>
-
 `nodejs` • `express` • `koa` • `nest` • `django`
 
 <samp>3. UI / UX Design</samp>
-
 `Figma` • `Adobe Illustrator` • `Adobe XD` • `Framer`
 
 <samp>4. DevOps</samp>
-
 `Docker` • `Kubernates` • `Github Actions` • `CI/CD Integrations`
 

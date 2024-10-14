@@ -8,6 +8,11 @@
   <br> <br>
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/gcbuying.png" alt="React Native" style="text-align: center; margin-bottom: 30px;" />
+<img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/webapp.png" alt="Web app" style="text-align: center; margin-bottom: 30px;" />
+
+</p>
 <h3><samp>Things I `code` with</samp></h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />

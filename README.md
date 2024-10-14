@@ -29,7 +29,7 @@
 </p>
 
 
-<h3><samp>Things I `code` with</samp></h3>
+<h2 align="center"> <samp>Things i {code} with</samp></h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 

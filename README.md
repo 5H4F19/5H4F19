@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/393644342_3402913683305622_1892780526371666041_n.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 
-## Hi there 👋
 <h2 align="center"> <samp>Who am I ?</samp></h2>
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.

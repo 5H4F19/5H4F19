@@ -9,12 +9,11 @@
 </p>
 
 <h2 align="center"> <samp>Recent works</samp></h2>
-<samp><b>GCBuying App</b></samp>
+<samp><b>1. GCBuying App</b></samp>
 <p>
   <samp>GCBuying lets you easily sell gift cards for cash (Naira) with competitive rates and secure transactions, backed by 24/7 customer support.</samp>
 </p>
-
-<samp><b>MCoin</b></samp>
+<samp><b>2. MCoin</b></samp>
 <p>
   <samp>MCoin is a platform for exploring initial coin offerings (ICOs), offering an intuitive interface and responsive design to keep users informed about cryptocurrency developments.</samp>
 </p>

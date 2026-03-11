@@ -24,7 +24,7 @@
   </a>
    <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/spacer.png" alt="React Native" width="30" style=""/>
   <a href="https://mcoin.multicone.tech/">
-  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/webapp.png" alt="Web app" width="551"/>
+  <img src="https://raw.githubusercontent.com/5h4f19/5h4f19/main/meezan-github.png" alt="Web app"/>
   </a>
 </p>
 
